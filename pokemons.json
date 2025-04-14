@@ -69,5 +69,25 @@
             "spd": 31
         },
         "em_uso": ""
+    },
+    {
+        "nome": "zorua-hisui",
+        "egg_groups": [
+            "Field"
+        ],
+        "genero": "Macho",
+        "dono": "KsevenK",
+        "ot": "KsevenK",
+        "habilidade": "Ilussion",
+        "hidden": false,
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spatk": 31,
+            "spdef": 31,
+            "spd": 31
+        },
+        "em_uso": ""
     }
 ]
