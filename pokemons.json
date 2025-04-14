@@ -49,5 +49,25 @@
             "spd": 29
         },
         "em_uso": ""
+    },
+    {
+        "nome": "gliscor",
+        "egg_groups": [
+            "Bug"
+        ],
+        "genero": "Macho",
+        "dono": "KsevenK",
+        "ot": "",
+        "habilidade": "Poison heal",
+        "hidden": true,
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spatk": 31,
+            "spdef": 31,
+            "spd": 31
+        },
+        "em_uso": ""
     }
 ]
