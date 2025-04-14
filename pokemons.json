@@ -1,26 +1,5 @@
 {
-    "disponiveis": [
-        {
-            "nome": "Hattena",
-            "egg_groups": [
-                "Fairy"
-            ],
-            "genero": "F\u00eamea",
-            "dono": "Shiro",
-            "ot": "Mandaleri",
-            "habilidade": "Magic Bounce",
-            "hidden": true,
-            "ivs": {
-                "hp": 31,
-                "atk": 31,
-                "def": 31,
-                "spatk": 31,
-                "spdef": 31,
-                "spd": 31
-            },
-            "em_uso": ""
-        }
-    ],
+    "disponiveis": [],
     "encomendas": [
         {
             "nome": "Hatterenne",
