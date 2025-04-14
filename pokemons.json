@@ -198,5 +198,25 @@
             "spd": 31
         },
         "em_uso": ""
+    },
+    {
+        "nome": "vcxverg",
+        "egg_groups": [
+            ""
+        ],
+        "genero": "",
+        "dono": "",
+        "ot": "",
+        "habilidade": "",
+        "hidden": false,
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spatk": 31,
+            "spdef": 31,
+            "spd": 31
+        },
+        "em_uso": ""
     }
 ]
