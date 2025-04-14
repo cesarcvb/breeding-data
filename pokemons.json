@@ -29,5 +29,25 @@
             "spd": 31
         },
         "em_uso": ""
+    },
+    {
+        "nome": "Zorua",
+        "egg_groups": [
+            "Field"
+        ],
+        "genero": "F\u00eamea",
+        "dono": "Shiro",
+        "ot": "Jorge",
+        "habilidade": "Illusion",
+        "hidden": false,
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spatk": 31,
+            "spdef": 31,
+            "spd": 29
+        },
+        "em_uso": ""
     }
 ]
