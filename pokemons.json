@@ -1,0 +1,33 @@
+[
+    {
+        "nome": "Hatterenne",
+        "egg_groups": [
+            "Fairy"
+        ],
+        "genero": "F\u00eamea",
+        "dono": "Shiro",
+        "habilidade": "Magic Bounce",
+        "hidden": true,
+        "em_uso": ""
+    },
+    {
+        "nome": "Zorua-Hisui",
+        "egg_groups": [
+            "Field"
+        ],
+        "genero": "Macho",
+        "dono": "Shiro",
+        "ot": "Mandaleri",
+        "habilidade": "Illusion",
+        "hidden": false,
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spatk": 31,
+            "spdef": 25,
+            "spd": 31
+        },
+        "em_uso": ""
+    }
+]
