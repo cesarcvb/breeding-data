@@ -21,5 +21,26 @@
             "em_uso": ""
         }
     ],
-    "encomendas": []
+    "encomendas": [
+        {
+            "nome": "Hatterenne",
+            "egg_groups": [
+                "Fairy"
+            ],
+            "genero": "",
+            "dono": "JOrgin",
+            "ot": "Shiro",
+            "habilidade": "Magic b",
+            "hidden": true,
+            "ivs": {
+                "hp": 31,
+                "atk": 31,
+                "def": 31,
+                "spatk": 31,
+                "spdef": 31,
+                "spd": 31
+            },
+            "em_uso": ""
+        }
+    ]
 }
