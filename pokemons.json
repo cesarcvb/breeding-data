@@ -1,25 +1,4 @@
 {
-    "disponiveis": [
-        {
-            "nome": "hattena",
-            "egg_groups": [
-                "Fairy"
-            ],
-            "genero": "",
-            "dono": "",
-            "ot": "",
-            "habilidade": "",
-            "hidden": false,
-            "ivs": {
-                "hp": 31,
-                "atk": 0,
-                "def": 31,
-                "spatk": 31,
-                "spdef": 31,
-                "spd": 31
-            },
-            "em_uso": ""
-        }
-    ],
+    "disponiveis": [],
     "encomendas": []
 }
